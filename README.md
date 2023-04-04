@@ -2,4 +2,4 @@
 
 ## Description
 
-My first ever website built to learn and understand html and css. I made a navigation bar and a hamburger menu as well as a moving arrow.
+My first ever own website built to learn and understand html and css. I made a navigation bar and a hamburger menu as well as a moving arrow.
